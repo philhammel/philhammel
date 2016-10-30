@@ -1,5 +1,9 @@
+html {
+    font-size: 120px;
+}
+
 body {
-    font: 120px 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border: 15px solid #fff;
     background:#AFF2D1;
     color: #000037;
