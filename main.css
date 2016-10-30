@@ -1,10 +1,10 @@
-html {
+body {
+    font: Helvetica, Helvetica Neue, Arial;
+    border: 10px solid #fff;
     background:#AFF2D1;
     color: #000037;
-    font-size: 150px;
-    border: 10px solid #fff;
 }
 
-body {
-    font: 16px Helvetica, Helvetica Neue, Arial;
+h1 {
+    font-size: 150px;
 }
