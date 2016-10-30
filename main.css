@@ -1,12 +1,8 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font: 120px 'Montserrat', sans-serif;
     border: 15px solid #fff;
     background:#AFF2D1;
     color: #000037;
     padding: 0;
     margin: 0;
-}
-
-h1 {
-    font-size: 140px;
 }
